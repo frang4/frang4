@@ -1,8 +1,3 @@
----
-title: $whoami
-layout: single
----
-
 # Hi 👋🏻
 
 My name is Francisco, or `frang4` and I am a Computer Engineer passioned about computer science and more precisely _cybersecurity_. I am a curious learner and the idea behind this blog/notes is to share some of my work, feel free to contact me.
