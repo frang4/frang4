@@ -1,6 +1,6 @@
 # Hi 👋🏻
 
-My name is Francisco, or `frang4` and I am a Computer Engineer passioned about computer science and more precisely _cybersecurity_. I am a curious learner and the idea behind this blog/notes is to share some of my work, feel free to contact me.
+My name is Francisco, or `frang4` and I am a Computer Engineer passioned about computer science and more precisely _offensive security_. I am a curious learner and I like to document and share what I learn — you can find more of my work on my [blog](https://frang4.tech), feel free to reach out.
 
 ## Experience
 
@@ -12,7 +12,7 @@ Key highlights:
 My background combines offensive and defensive security skills with a strategic mindset, allowing me to work cross-functionally with development and operations teams to embed security from design through deployment.
 
 ## Certifications
-* `CPTS` - Certified Penetration Tester Specialist path completed
+* **CPTS** - Certified Penetration Tester Specialist path completed
 * **CWEE** - Certified Web Exploitation Expert 40% path completed
 * **CBBH** - Certified Bug Bounty Hunter 85% path completed
 
