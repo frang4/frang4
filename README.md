@@ -15,6 +15,7 @@ My background combines offensive and defensive security skills with a strategic 
 * **CPTS** - Certified Penetration Tester Specialist path completed
 * **CWEE** - Certified Web Exploitation Expert 40% path completed
 * **CBBH** - Certified Bug Bounty Hunter 85% path completed
+* **ISMS ISO 27001:2022** - Internal Auditory by Bureau Veritas
 
 ## CTFs and awards
 * 🎓 Graduated with honors and received J.V. Gonzalez award for academic excellence.
